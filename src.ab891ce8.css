@@ -522,4 +522,11 @@ section {
 .socials a:hover {
   color: #fff;
 }
+.lol {
+  transition: transform 0.4s ease;
+}
+
+.lol:hover {
+  transform: scale(1.05);
+}
 /*# sourceMappingURL=src.ab891ce8.css.map */
