@@ -206,6 +206,10 @@ section {
 .heading-5 {
   font-size: 1.3rem;
   letter-spacing: 3px;
+  transition: all 0.3s ease-in-out;
+}
+.heading-5:hover {
+  color: #0978f7;
 }
 .paragraph {
   font-size: 1.5rem;
